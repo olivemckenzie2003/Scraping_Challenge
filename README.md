@@ -26,6 +26,8 @@ in the form of a table which contain the rows :
 * `month`: the Martian month
 * `min_temp`: the minimum temperature, in Celsius, of a single Martian day (sol)
 * `pressure`: The atmospheric pressure at Curiosity's location
+ 
+Information from table is converted into Pandas dataframes and then used for performating  analysis
 
 
 
